@@ -17,7 +17,7 @@ ___
 
 
 ### Current Projects
-[Budget](#Budget) | [Housing](#Housing) | [Transportation](#Transportation) | [Emergency Response](#Emergency-Response) | [Homelessness](#Homelessness)
+[Budget](#budget) | [Housing](#housing) | [Transportation](#transportation) | [Emergency Response](#emergency-response) | [Homelessness](#homelessness)
 
 ___
 
