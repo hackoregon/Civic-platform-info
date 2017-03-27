@@ -23,7 +23,8 @@ ___
 
 ### Contributing
 
-How we work
+[How we work](https://github.com/hackoregon/Civic-platform-info/blob/master/how-we-work.md)
+
 
 [CIVIC platform product design specs, assets, and style guides](https://github.com/hackoregon/Civic-platform-info/blob/master/product-design.md)
 
