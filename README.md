@@ -29,7 +29,7 @@ How we work
 
 [Front-end Development](https://github.com/hackoregon/Civic-platform-info/blob/master/front-end-dev-info.md)
 
-Backend/API Development
+[Backend/API Development](https://github.com/hackoregon/Civic-platform-info/blob/master/backend-api-info.md)
 
 [DevOps](https://github.com/hackoregon/Civic-platform-info/blob/master/devOps-info.md)
 
