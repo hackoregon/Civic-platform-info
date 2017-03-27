@@ -31,7 +31,7 @@ How we work
 
 Backend/API Development
 
-DevOps
+[DevOps](https://github.com/hackoregon/Civic-platform-info/blob/master/devOps-info.md)
 
 Data Science
 
