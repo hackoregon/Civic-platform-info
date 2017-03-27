@@ -25,7 +25,7 @@ ___
 
 How we work
 
-CIVIC platform product design specs, assets, and style guides
+[CIVIC platform product design specs, assets, and style guides](https://github.com/hackoregon/Civic-platform-info/blob/master/product-design.md)
 
 Front-end Development
 
