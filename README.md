@@ -35,7 +35,7 @@ How we work
 
 Data Science
 
-Useful tools
+[Useful tools](https://github.com/hackoregon/Civic-platform-info/blob/master/useful-tools.md)
 
 ___
 
