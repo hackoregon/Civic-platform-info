@@ -48,6 +48,8 @@ ___
 
 [Budget team front-end repo](https://github.com/hackoregon/team-budget-frontend)
 
+**Endpoint Reference**: [Swagger API Reference](http://hacko-integration-658279555.us-west-2.elb.amazonaws.com/budget/)
+
 ___
 
 ### Housing
@@ -57,6 +59,8 @@ ___
 [Housing team backend and data repo](https://github.com/hackoregon/housing-backend)
 
 [Housing team front-end repo](https://github.com/hackoregon/housing-frontend)
+
+**Endpoint Reference**: [Swagger API Reference](http://hacko-integration-658279555.us-west-2.elb.amazonaws.com/housing/#/)
 
 ___
 
@@ -70,6 +74,8 @@ ___
 
 [Transportation team front-end repo](https://github.com/hackoregon/transportation-frontend)
 
+**Endpoint Reference**: [Swagger API Reference](http://hacko-integration-658279555.us-west-2.elb.amazonaws.com/transport/)
+
 ___
 
 ### Emergency Response  
@@ -82,6 +88,8 @@ ___
 
 [Emergency Response front-end repo](https://github.com/hackoregon/emergency-response-frontend)
 
+**Endpoint Reference**: [Swagger API Reference](http://hacko-integration-658279555.us-west-2.elb.amazonaws.com/emergency/)
+
 ___
 
 ### Homelessness
@@ -90,4 +98,6 @@ ___
 
 [Homelessness team backend and data repo](https://github.com/hackoregon/teamHomelessness)
 
-[Homelessness team front-end repo](https://github.com/hackoregon/teamHomelessness-frontend)     
+[Homelessness team front-end repo](https://github.com/hackoregon/teamHomelessness-frontend)
+
+**Endpoint Reference**: [Swagger API Reference](http://hacko-integration-658279555.us-west-2.elb.amazonaws.com/homeless/)
