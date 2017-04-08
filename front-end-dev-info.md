@@ -26,7 +26,7 @@ Once you have cloned both the component library and this project site, do the fo
 1. `cd` to your local component-library checkout
 2. Run `npm link`
 3. `cd` to your local project site checkout
-4. Run `npm link react-component-library`
+4. Run `npm link @hackoregon/component-library`
 
 Now any code in the project site that relies on components from the component library will import modules directly from your local checkout of component-library. Likewise, any changes you make to your local checkout of component-library will impact the project site. The project site will also watch these component-library changes and hot reload localhost:3000 for you.
 
